@@ -1,5 +1,5 @@
 ---
-title: 'Análise de sentimentos - CPI covid 19'
+title: 'Análise de sentimentos - CPI covid 19' (Estudo desenvolvido apenas para uso pessoal)
 author: 'Antonio Andrade'
 date: "08/06/2022"
 output:
